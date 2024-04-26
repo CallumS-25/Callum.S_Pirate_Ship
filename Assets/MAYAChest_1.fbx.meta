@@ -1,29 +1,9 @@
 fileFormatVersion: 2
-guid: 70cc49de005d63d4686f70d249cf54a7
+guid: 188c60510b8c2c74c9b28524a227f6eb
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Metal019_4K-JPG_Color
-    second: {fileID: 2800000, guid: 83504c7df9b454f44a7112764815be69, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Planks033B_4K-JPG_Color
-    second: {fileID: 2800000, guid: df82340e98e6ab24191fff1abe6c270c, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Planks033B_4K-JPG_Metalness
-    second: {fileID: 2800000, guid: 5b4735b4adf8f4447afc3e64a7dfdc62, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Planks033B_4K-JPG_Roughness
-    second: {fileID: 2800000, guid: 10cd31c3a95489e4fb6e319750fe1893, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
